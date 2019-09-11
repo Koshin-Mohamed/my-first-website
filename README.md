@@ -10,8 +10,8 @@ This website's pupose is to share with you my favorite things, and is free for a
 
 ## Setup/Installation Requirements
 
-- Download or clone project git clone heres https://github.com/Koshin-Mohamed/pet-website.git
-- cd pet-website
+- Download or clone project git clone heres https://github.com/Koshin-Mohamed/my-first-website.git
+- cd my-first-website
 - code . or atom .
 
 ## Known Bugs
