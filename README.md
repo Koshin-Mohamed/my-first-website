@@ -1,6 +1,6 @@
 # My Favorite Things
 
-#### This is a website about my favorite, 11/09/2019
+#### This is a website about my favorite things, 11/09/2019
 
 #### By **Koshin Mohamed**
 
